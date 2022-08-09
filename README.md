@@ -1,4 +1,7 @@
-# crud
+# vue-crud
+
+[Live](https://vue-to-do-crud.netlify.app/)
+
 
 ## Project setup
 ```
